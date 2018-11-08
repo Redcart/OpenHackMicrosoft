@@ -7,3 +7,6 @@ The structure of the folder is the following:
 - **Data** ==> all images of the company (each subfolder corresponds to an item category)
 - **Output**: ==> saved models
 - **Scripts**: ==> code in Python 3
+
+Link to explaination for mAP (mean Average Precision): 
+https://medium.com/@jonathan_hui/map-mean-average-precision-for-object-detection-45c121a31173
