@@ -1,0 +1,4 @@
+# exclude big intermediate files
+
+Data/*.npz
+Output/*.pkl
